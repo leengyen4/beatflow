@@ -33,4 +33,4 @@ Users should be able to remove a song from a playlist.
 
 ![db-schema]
 
-[db-schema]: .image/DBdiagram.png
+[db-schema]: /Users/leenguyen/appAcademy/spotify-clone/image/DBdiagram.png
