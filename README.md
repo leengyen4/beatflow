@@ -28,3 +28,6 @@ Users should be able to view all of their playlists.
 Users should be able to add a song to one of their playlists.
 Users should be able to remove a song from a playlist.
 
+
+
+![DB Diagram](spotify-clone/image/DBdiagram.png)
