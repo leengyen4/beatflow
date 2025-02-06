@@ -28,3 +28,8 @@ Users should be able to view all of their playlists.
 Users should be able to add a song to one of their playlists.
 Users should be able to remove a song from a playlist.
 
+## Database Schema Design
+
+![db-schema]
+
+[db-schema]: ./images/Screenshot%202025-02-04%20at%203.29.33 PM.png
