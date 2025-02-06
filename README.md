@@ -44,4 +44,4 @@ Users are required for the project but are not counted as one of the four main f
 
 ![db-schema]
 
-[db-schema]: ./images/Screenshot%202025-02-06%20at%209.32.02 AM.png
+[db-schema]: ./images/Screenshot%202025-02-06%20at%2010.21.20 AM.png
