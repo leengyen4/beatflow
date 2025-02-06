@@ -1,32 +1,44 @@
-# spotify-clone
+## Beatflow
 
-Feature List:
+## MVP List
+Spotify Clone is a music streaming platform that allows users to upload, manage, and interact with songs, albums, playlists, and likes.
 
-Users 
+New account creation, log in, log out, and guest/demo login
+Users are required for the project but are not counted as one of the four main features.
 
-Users should be able to view all Songs.
-Users should be able to upload songs.
-Users should be able to update their uploaded songs.
-Users should be able to delete their uploaded songs.
+ - Users can sign up, log in, and log out.
+ - Users can use a demo login to try the site.
+ - Users can't use certain features without logging in (like uploading songs, liking songs, or managing playlists).
+ - Logged-in users are directed to their profile page, displaying their uploaded songs and created playlists.
+ - Logged-out users are directed to a landing page displaying popular or recently uploaded songs.
 
-Albums
+## 1. Songs
+ - Logged-in users can upload songs.
+ - Logged-in users can edit or delete their uploaded songs.
+ - All users can view all available songs.
 
-Users should be able to view all albums created by users.
-Users should be able to add songs to an album they created.
-Users should be able to remove songs from their albums.
-Users should be able to delete their albums.
+## 2. Albums
+ - Logged-in users can create albums.
+ - Logged-in users can add songs to an album they created.
+ - Logged-in users can remove songs from their albums.
+ - Logged-in users can delete their albums.
+ - All users can view all albums created by users.
 
-Likes
+## 3. Likes
+ - Logged-in users can like and unlike songs.
+ - Logged-in users can view the number of likes on a song.
 
-Users should be able to view the likes on a song.
-Users should be able to like a song.
-Users should be able to unlike a song.
+## 4. Playlists
+ - Logged-in users can create playlists.
+ - Logged-in users can add songs to their playlists.
+ - Logged-in users can remove songs from a playlist.
+ - Logged-in users can view all of their playlists.
 
-Playlists
+## Bonus Features
 
-Users should be able to view all of their playlists.
-Users should be able to add a song to one of their playlists.
-Users should be able to remove a song from a playlist.
+## 5. Search
+ - Users can search for songs by artist or song name.
+ - Users can view the results of their search.
 
 ## Database Schema Design
 
